@@ -5,7 +5,7 @@
     'version': '1.0',
     'author': 'Odoog(vnsoft.he@gmail.com)',
     'website': 'http://www.odoog.com',
-    'category': 'Hidden',
+    'category': 'hidden',
     'summary': "config database comment.",
     'depends': ['web'],
     'data': [],
