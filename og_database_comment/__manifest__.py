@@ -21,6 +21,6 @@
     'auto_install': False,
     'pre_init_hook': 'pre_init_hook',
     'license': 'LGPL-3',
-    'price': '0.0',
+    'price': 0.0,
     'currency': 'EUR'
 }
