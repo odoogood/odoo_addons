@@ -6,8 +6,10 @@
     'version': '16.0.1.0.0',
     'sequence': 99,
     'summary': "database manager page show descript for all database.",
-    'description': """database manager page show descript for all database.""",
-    'author': 'Odoog(vnsoft.he@gmail.com)',
+    'description': """
+    database manager page show descript for all database.
+    ===================================================""",
+    'author': 'VnSoft',
     'maintainer': 'Odoog(vnsoft.he@gmail.com)',
     'website': 'https://www.odoog.com',
     'category': 'hidden',
