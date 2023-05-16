@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
-
+###############################################################################
+#    Copyright (C) 2023-TODAY Odoog (<https://www.odoog.com>)
+#    Author: Bin He (vnsoft.he@gmailcom)
+#    License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl).
+###############################################################################
 {
     'name': "Database Comment",
     'version': '16.0.1.0.0',
@@ -10,17 +13,17 @@
     database manager page show descript for all database.
     ===================================================""",
     'author': 'VnSoft',
-    'maintainer': 'Odoog(vnsoft.he@gmail.com)',
+    'maintainer': 'Odoog',
+    'support': 'vnsoft.he@gmail.com',
     'website': 'https://www.odoog.com',
     'category': 'hidden',
     'depends': ['web'],
     'data': [],
     'demo': [],
-    'application': True,
     'installable': True,
+    'application': False,
     'auto_install': False,
     'pre_init_hook': 'pre_init_hook',
     'license': 'LGPL-3',
-    'price': 0.0,
-    'currency': 'EUR'
+    'images': ['static/description/screenshot1.png','static/description/screenshot2.png','static/description/screenshot3.png'],
 }
