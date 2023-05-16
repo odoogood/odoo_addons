@@ -16,7 +16,7 @@
     'maintainer': 'Odoog',
     'support': 'vnsoft.he@gmail.com',
     'website': 'https://www.odoog.com',
-    'category': 'hidden',
+    'category': 'setting',
     'depends': ['web'],
     'data': [],
     'demo': [],
